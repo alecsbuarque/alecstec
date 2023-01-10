@@ -18,4 +18,3 @@ icon_size = 20
 
 st_button('youtube', 'https://youtube.com/@alecstec', 'Canal no youtube!', icon_size)
 st_button('titok', 'https://tiktok.com/@alecstec', 'Canal no TIktok', icon_size)
-st_button('instagram', 'https://instagram.com/alecstec', 'Conteudo Diario no Instagram', icon_size)
